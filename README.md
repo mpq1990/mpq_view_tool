@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+MpqViewTool::Renderer.copyright 'Majid', 'All rights reserved'
+```
 
 ## Development
 
